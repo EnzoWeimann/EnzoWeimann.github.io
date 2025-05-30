@@ -121,7 +121,7 @@
     flex-direction: column;
     justify-content: space-between;
     width: 40%;
-    height: 400px;
+    height: 50vh;
     padding: 2vw;
     background-color: var(--dark-color);
     color: var(--light-color);
@@ -141,7 +141,7 @@
   .project-tile p {
     height: 20%;
     width: 100%;
-    font-size: 1.5rem;
+    font-size: 2rem;
     padding-top: 2vh;
     overflow: hidden;
   }

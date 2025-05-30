@@ -1,8 +1,8 @@
 "use strict"
 
-let proyectosArr = ["Random quote generator", "Bar chart with D3", "Palindrome Checker with JS", "Showpping cart with JS"];
-let urlArr = ["https://codepen.io/Endage/pen/BagBLEp", "https://codepen.io/Endage/pen/yLWgeBZ", "https://codepen.io/Endage/pen/OPPdJjW", "https://codepen.io/Endage/pen/KwwbvOd"];
-let srcArr = ["./imagenes/random_quote.png", "./imagenes/bar_chart.png", "./imagenes/palindrome.png", "./imagenes/shopping_cart.png"];
+let proyectosArr = ["Person Management with Spring", "Random quote generator", "Palindrome Checker with JS", "Showpping cart with JS"];
+let urlArr = ["https://github.com/EnzoWeimann/People-Management-with-Spring", "https://codepen.io/Endage/pen/BagBLEp", "https://codepen.io/Endage/pen/OPPdJjW", "https://codepen.io/Endage/pen/KwwbvOd"];
+let srcArr = ["/imagenes/Control_usuarios_index.png", "./imagenes/random_quote.png", "./imagenes/palindrome.png", "./imagenes/shopping_cart.png"];
 
 let certificadosArr = ["SCRUM certificate", "Responsive web design certificate", "JavaScript certificate"];
 let certificadosUrl = ["https://www.scrumstudy.com/certification/verify?type=SFC&number=1054182", "https://freecodecamp.org/certification/EnzoW/responsive-web-design", "https://www.freecodecamp.org/certification/EnzoW/javascript-algorithms-and-data-structures-v8"];
