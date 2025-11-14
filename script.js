@@ -1,7 +1,7 @@
 "use strict"
 
 let proyectosArr = ["Person Management with Spring", "Budget app with Angular", "Inventory System with Spring and Angular", "Matching app with React"];
-let urlArr = ["https://github.com/EnzoWeimann/People-Management-with-Spring", "https://github.com/EnzoWeimann/AppBudget", "https://github.com/EnzoWeimann/inventory-management-system", ""];
+let urlArr = ["https://github.com/EnzoWeimann/People-Management-with-Spring", "https://github.com/EnzoWeimann/AppBudget", "https://github.com/EnzoWeimann/inventory-management-system", "https://github.com/EnzoWeimann/FlowTech_frontend"];
 let srcArr = ["/imagenes/Control_usuarios_index.png", "/imagenes/image1.png", "/imagenes/inventory-index.png", "./imagenes/App_citas.png"];
 
 let certificadosArr = ["SCRUM certificate", "Responsive web design certificate", "JavaScript certificate"];
